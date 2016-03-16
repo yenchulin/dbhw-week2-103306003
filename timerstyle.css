@@ -116,10 +116,10 @@ body{
 
 #num {
   position: absolute;
-  top: 110px;
+  top: 115px;
   left: 50%;
   z-index: 200;
-  margin-left: -50px;
+  margin-left: -55px;
   font-size: 120px;
   font-family: fantasy;
   font-style: oblique;
